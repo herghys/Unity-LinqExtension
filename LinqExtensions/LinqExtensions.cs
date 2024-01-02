@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Herghys.LinqUtility
+namespace Herghys.Extensions.LinqUtility
 {
 	public static class LinqExtensions
 	{
